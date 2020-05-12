@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Libs/glfw3u.dll</file>
+        <file>Libs/libgdi32.a</file>
+        <file>Libs/libglfw3.a</file>
+        <file>Libs/libglfw3dll.a</file>
+        <file>Shaders/lighting_maps.fsh</file>
+        <file>Shaders/lighting_maps.vsh</file>
+        <file>Shaders/select.fsh</file>
+        <file>Shaders/select.vsh</file>
+        <file>Textures/bar_texture.png</file>
+        <file>Textures/corpus.jpg</file>
+        <file>Textures/start_button.png</file>
+    </qresource>
+</RCC>
